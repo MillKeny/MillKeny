@@ -1,4 +1,10 @@
-## Hi there 👋
+## Heyo!
+
+I am Artyom "MillKeny" Arzumanyan. Doing weird but fun projects
+
+Դզմա
+
+<img align=center width=500 src="https://github-readme-stats.vercel.app/api?username=millkeny&show_icons=true&hide_title=false&include_all_commits=true&theme=github_dark">
 
 <!--
 **MillKeny/MillKeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
