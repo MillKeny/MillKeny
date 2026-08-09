@@ -4,7 +4,7 @@ I am Artyom "MillKeny" Arzumanyan. Doing weird but fun projects. Mostly just exp
 
 Դզմա
 
-<img align=center width=500 src="https://github-readme-stats.vercel.app/api?username=millkeny&show_icons=true&hide_title=false&include_all_commits=true&theme=github_dark">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MillKeny&custom_title=MillKeny%27s%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MillKeny&custom_title=MillKeny%27s%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)
 
 <!--
 **MillKeny/MillKeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
